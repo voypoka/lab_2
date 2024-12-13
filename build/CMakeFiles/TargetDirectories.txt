@@ -1,0 +1,5 @@
+/Users/pavelstarostin/Source/Project/build/CMakeFiles/DatabaseApp.dir
+/Users/pavelstarostin/Source/Project/build/CMakeFiles/edit_cache.dir
+/Users/pavelstarostin/Source/Project/build/CMakeFiles/rebuild_cache.dir
+/Users/pavelstarostin/Source/Project/build/CMakeFiles/DatabaseApp_autogen_timestamp_deps.dir
+/Users/pavelstarostin/Source/Project/build/CMakeFiles/DatabaseApp_autogen.dir

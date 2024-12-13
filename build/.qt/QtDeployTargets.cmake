@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_DatabaseApp_FILE /Users/pavelstarostin/Source/Project/build/DatabaseApp)
+set(__QT_DEPLOY_TARGET_DatabaseApp_TYPE EXECUTABLE)

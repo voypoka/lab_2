@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+65dd94452f32c2a06bb19e44828b8b99 CMakeFiles/DatabaseApp_autogen
+669dff5e21973dbc72b86d185f210468 DatabaseApp_autogen/timestamp
+4120e4f26bc056afc8fdbeec72a5fb9e src/moc_MainWindow.cpp
+a2754e20cbe325ad84f56b884d190cf2 src/moc_TextDatabase.cpp

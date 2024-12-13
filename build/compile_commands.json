@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/pavelstarostin/Source/Project/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/pavelstarostin/Source/Project/build/DatabaseApp_autogen/include -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -o CMakeFiles/DatabaseApp.dir/DatabaseApp_autogen/mocs_compilation.cpp.o -c /Users/pavelstarostin/Source/Project/build/DatabaseApp_autogen/mocs_compilation.cpp",
+  "file": "/Users/pavelstarostin/Source/Project/build/DatabaseApp_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/DatabaseApp.dir/DatabaseApp_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/pavelstarostin/Source/Project/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/pavelstarostin/Source/Project/build/DatabaseApp_autogen/include -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -o CMakeFiles/DatabaseApp.dir/src/main.cpp.o -c /Users/pavelstarostin/Source/Project/src/main.cpp",
+  "file": "/Users/pavelstarostin/Source/Project/src/main.cpp",
+  "output": "CMakeFiles/DatabaseApp.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/pavelstarostin/Source/Project/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/pavelstarostin/Source/Project/build/DatabaseApp_autogen/include -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -o CMakeFiles/DatabaseApp.dir/src/MainWindow.cpp.o -c /Users/pavelstarostin/Source/Project/src/MainWindow.cpp",
+  "file": "/Users/pavelstarostin/Source/Project/src/MainWindow.cpp",
+  "output": "CMakeFiles/DatabaseApp.dir/src/MainWindow.cpp.o"
+},
+{
+  "directory": "/Users/pavelstarostin/Source/Project/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/pavelstarostin/Source/Project/build/DatabaseApp_autogen/include -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -o CMakeFiles/DatabaseApp.dir/src/TextDatabase.cpp.o -c /Users/pavelstarostin/Source/Project/src/TextDatabase.cpp",
+  "file": "/Users/pavelstarostin/Source/Project/src/TextDatabase.cpp",
+  "output": "CMakeFiles/DatabaseApp.dir/src/TextDatabase.cpp.o"
+}
+]
